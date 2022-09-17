@@ -1,0 +1,6 @@
+git config --global user.email "awsdeopsajc@gmail.com"
+  git config --global user.name "Jayachand.A"
+git hub login detail : 
+
+user name :awsdeopsajc
+Passwored : Admgmt@9
